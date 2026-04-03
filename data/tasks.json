@@ -292,6 +292,19 @@
       ],
       "subtasks": [],
       "createdAt": "2026-04-03T17:05:36.735Z"
+    },
+    {
+      "id": "task_1775236061723",
+      "title": "test",
+      "description": "testtask",
+      "project": "",
+      "tags": [
+        ""
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-04-03T17:07:41.723Z",
+      "status": "backlog"
     }
   ],
   "projects": [
@@ -322,5 +335,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-04-03T17:06:28.525Z"
+  "lastUpdated": "2026-04-03T17:07:41.723Z"
 }
