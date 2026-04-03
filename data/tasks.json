@@ -278,6 +278,20 @@
       "priority": "low",
       "comments": [],
       "createdAt": "2026-01-01T00:00:02Z"
+    },
+    {
+      "id": "task_1775235936735",
+      "title": "Test",
+      "description": "",
+      "status": "scheduled",
+      "scheduledAt": "2026-04-04T15:05:00.000Z",
+      "priority": "medium",
+      "project": "system",
+      "tags": [
+        "scheduled"
+      ],
+      "subtasks": [],
+      "createdAt": "2026-04-03T17:05:36.735Z"
     }
   ],
   "projects": [
