@@ -283,10 +283,10 @@
       "id": "task_1775235936735",
       "title": "Test",
       "description": "",
-      "status": "scheduled",
+      "status": "in_progress",
       "scheduledAt": "2026-04-04T15:05:00.000Z",
       "priority": "medium",
-      "project": "system",
+      "project": "",
       "tags": [
         "scheduled"
       ],
@@ -322,5 +322,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-04-03T16:59:01.901Z"
+  "lastUpdated": "2026-04-03T17:06:28.525Z"
 }
